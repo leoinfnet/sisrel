@@ -1,5 +1,9 @@
 # SISREL
 ---
+![GitHub last commit](https://img.shields.io/github/last-commit/leoinfnet/sisrel?style=for-the-badge)  
+![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)  
+
+
 
 ## 📌 Descrição
 **sisrel** é um projeto em **Python** criado como base de aprendizado no curso de GitHub.  
