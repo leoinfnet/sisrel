@@ -2,7 +2,7 @@
 ---
 ![GitHub last commit](https://img.shields.io/github/last-commit/leoinfnet/sisrel?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)  
-![License](https://img.shields.io/github/license/SEU_USUARIO/sisrel?style=for-the-badge)  
+![License](https://img.shields.io/github/license/leoinfnet/sisrel?style=for-the-badge)  
 ![Version](https://img.shields.io/badge/version-0.0.1-green?style=for-the-badge)  
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)  
 
