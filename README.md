@@ -30,12 +30,7 @@ python sisrel.py
 --- 
 
 ## 🗺️ Roadmap
-- [x] Criar repositório inicial no GitHub  
-- [x] Adicionar README e LICENSE  
-- [ ] Documentação detalhada em `/docs`  
-- [ ] Adicionar testes automatizados  
-- [ ] Configurar GitHub Actions para CI/CD  
-- [ ] Integrar cobertura de testes (Codecov / Coveralls)  
+[AQUI](ROADMAP.md)
 
 ---
 
