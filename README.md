@@ -47,3 +47,8 @@ Padrão de commits: [Conventional Commits](https://www.conventionalcommits.org/)
 ## Author 
 Leonardo Gloria
 [Perfil do Github](https://github.com/leogloriainfnet)
+
+---
+## Licença
+Este projeto está licenciado sob a **MIT LICENSE** - veja o arquivo: 
+[LICENSE](LICENSE) para mais detalhes
