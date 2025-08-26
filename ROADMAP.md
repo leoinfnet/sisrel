@@ -35,3 +35,4 @@ Ele serve como guia para alunos e contribuidores acompanharem a evolução do re
 - [ ] Criar testes mais completos (unitários + integração)
 - [ ] Automatizar geração de **CHANGELOG** a partir dos commits
 - [ ] Publicar a primeira **release oficial (v1.0.0)**
+- [ ] Qualquer coisa
