@@ -1,0 +1,26 @@
+name: Task
+description: Pequena tarefa administrativa (refactor, docs, chore).
+title: "[Task]: "
+labels: ["chore"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Por favor descreva brevemente a tarefa:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What exactly needs to be done?
+      placeholder: Standardize the header title across the app.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Code implemented
+        - label: Tests updated/created
+        - label: Documentation updated
