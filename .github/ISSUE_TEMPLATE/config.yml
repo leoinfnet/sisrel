@@ -1,1 +1,22 @@
-black_issues_enabled: false
+blanck_issues_enabled: false
+
+contact_links:
+  - name: "💬 Discussões (perguntas gerais)"
+    url: "https://github.com/leoinfnet/sisrel/discussions"
+    about: "Use as discussões para perguntas abertas, ideias e debates rápidos."
+
+  - name: "📚 Contributing Guide"
+    url: "https://github.com/leoinfnet/sisrel/blob/main/CONTRIBUTING.md"
+    about: "Antes de abrir uma issue, leia as regras de contribuição."
+
+  - name: "🤝 Code of Conduct"
+    url: "https://github.com/leoinfnet/sisrel/blob/main/CODE_OF_CONDUCT.md"
+    about: "Respeite as normas da comunidade ao participar."
+
+  - name: "🔐 Reportar vulnerabilidade de segurança"
+    url: "https://github.com/leoinfnet/sisrel/security/policy"
+    about: "Use este fluxo privado para reportar problemas de segurança."
+
+  - name: "📖 Documentação / README"
+    url: "https://github.com/leoinfnet/sisrel#readme"
+    about: "Como rodar o projeto, decisões de arquitetura e FAQ."
