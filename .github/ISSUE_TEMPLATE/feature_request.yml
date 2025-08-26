@@ -1,0 +1,38 @@
+name: Feature Request
+description: Suggest an idea for this project.
+title: "[Feature]: "
+labels: ["enhancement","solicitacao_meloria"]
+assignees: ["leoinfnet"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a feature! Please fill out the details below.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this feature solve?
+      description: Describe the problem you are facing.
+      placeholder: Users cannot change the header title without altering the code.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How would you like to see this implemented?
+      placeholder: Add a config variable `app.headerTitle` with a default value.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      placeholder: Keep the title fixed, generate builds per environment, etc.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: I confirm this is not a duplicate request
+          required: true
