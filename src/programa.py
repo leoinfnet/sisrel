@@ -13,7 +13,7 @@ class Venda:
 def header():
     print("=" *50)
     print("Seja bem vindo ao SISREL!!!".center(50))
-    print("="*50)
+    print("="*40)
 
 def gerar_vendas(qtd):
     produtos = ['Camiseta', 'Calça', 'Tênis', 'Boné']
