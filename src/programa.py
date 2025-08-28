@@ -51,7 +51,7 @@ def main():
     relatorio(vendas)
     print("-"*50)
     print("Programa finalizado diretor@acme.com")
-    print("-"*50)
+    print("-"*40)
     print("Tenha um bom dia!")
     print()
 
