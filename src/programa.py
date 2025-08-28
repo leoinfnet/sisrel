@@ -46,7 +46,7 @@ def main():
     print("Vendas de Tênis:")
     for v in vendas_tenis:
         print(v)
-    print("Análise geral:")
+    print("Análise ger al:")
     print("aqui eh um bug escondido")  
     relatorio(vendas)
     print("-"*50)
