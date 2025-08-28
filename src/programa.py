@@ -50,8 +50,8 @@ def main():
     print("aqui eh um bug escondido")  
     relatorio(vendas)
     print("-"*50)
-    print("Programa finalizado")
-    print("-"*50)
+    print("Programa finalizado diretor@acme.com")
+    print("-"*40)
     print("Tenha um bom dia!")
     print()
 
