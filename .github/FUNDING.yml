@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+# GitHub Sponsors (adicione só depois de aprovado, senão dá erro)
+# github: leoinfnet
+
+# Plataformas externas de financiamento
+patreon: "patreon"              # https://patreon.com/patreon (exemplo oficial)
+ko_fi: "kofi"                   # https://ko-fi.com/kofi (exemplo oficial)
+open_collective: "babel"        # https://opencollective.com/babel (projeto real)
+tidelift: "npm/react"           # https://tidelift.com/subscription/npm/react
+custom: 
+  - "https://opencollective.com/babel"
+  - "https://ko-fi.com/kofi"
+  - "https://patreon.com/patreon"
