@@ -12,7 +12,7 @@ class Venda:
         return f"{self.produto} - R${self.valor:.2f} em {self.data.strftime('%d/%m/%Y')}"
 def header():
     print("="* 50)
-    print(" Seja bem vindo ao SISREL !!!".center(50))
+    print("Seja bem vindo ao SISREL !!!".center(50))
     print("="*50)
 
 def gerar_vendas(qtd):
@@ -50,7 +50,7 @@ def main():
     print("aqui eh um bug escondido")  
     relatorio(vendas)
     print("-"*50)
-    print("Programa finalizado")
+    print("Programa finalizado diretor@acme.com")
     print("-"*50)
     print("Tenha um bom dia!")
     print()
