@@ -11,7 +11,7 @@ class Venda:
     def __str__(self):
         return f"{self.produto} - R${self.valor:.2f} em {self.data.strftime('%d/%m/%Y')}"
 def header():
-    print("="*50)
+    print("="* 50)
     print(" Seja bem vindo ao SISREL !!!".center(50))
     print("="*50)
 
